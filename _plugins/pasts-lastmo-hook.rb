@@ -12,4 +12,4 @@ module Jekyll
         original_listen_ignore_paths(options) + [%r!.*\.TMP!i]
     end
   end
-end 
+end   
